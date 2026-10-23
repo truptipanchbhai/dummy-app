@@ -1,5 +1,5 @@
 name: GitHub to AWS ECR Test
-
+#Test OIDC connection
 on:
   push:
     branches:
